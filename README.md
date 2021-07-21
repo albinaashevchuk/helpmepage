@@ -1,2 +1,1 @@
-# helpmepage
-trainee web site
+TinDog Starting Files
